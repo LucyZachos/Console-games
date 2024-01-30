@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Lucy\Desktop\ITPPA1-B22\Visual Studio\ITPPA1_B22_Y34VR5C17_3\ITPPA1_B22_Y34VR5C17_3\Source.cpp(110,23): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lucy\Desktop\ITPPA1-B22\Visual Studio\ITPPA1_B22_Y34VR5C17_3\ITPPA1_B22_Y34VR5C17_3\Source.cpp(193,24): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\Lucy\Desktop\ITPPA1-B22\Visual Studio\ITPPA1_B22_Y34VR5C17_3\ITPPA1_B22_Y34VR5C17_3\Source.cpp(252,23): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ITPPA1_B22_Y34VR5C17_3.vcxproj -> C:\Users\Lucy\Desktop\ITPPA1-B22\Visual Studio\ITPPA1_B22_Y34VR5C17_3\x64\Debug\ITPPA1_B22_Y34VR5C17_3.exe
